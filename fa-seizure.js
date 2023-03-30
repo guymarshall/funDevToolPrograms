@@ -1,3 +1,5 @@
+alert("Warning: Flashing lights will appear after clicking OK!");
+
 setInterval(function() {
     let elements = document.getElementsByTagName("*");
     for (let i = 0; i < elements.length; i++) {
