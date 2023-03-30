@@ -1,5 +1,5 @@
 function getRandomSize() {
-  return Math.floor(Math.random() * 100) + 50;
+    return Math.floor(Math.random() * 100) + 50;
 }
 
 function animateElement(element) {
