@@ -1,0 +1,1 @@
+document.body.innerHTML = document.body.innerHTML.replace(/class="/g, 'class="fa fa-spin ');
