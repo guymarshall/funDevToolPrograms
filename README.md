@@ -4,4 +4,5 @@ These programs **do not** alter any data on the site you use them on, and they *
 
 # Rules
 
-There are no rules apart from please have fun, and use 4 spaces per tab if possible.
+There are no rules apart from please have fun, use 4 spaces per tab if possible, and use more modern features of JavaScript like let and const instead of var please!
+😊
